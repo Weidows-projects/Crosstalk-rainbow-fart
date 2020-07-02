@@ -1,6 +1,11 @@
 <h1 align="center">
- ⭐️ 相声Rainbow-Fart语音包 ⭐️ 
+ ⭐️ 相声🌈Rainbow-Fart语音包 ⭐️ 
 </h1>
 
-# Crosstalk-rainbow-fart
-相声彩虹屁 Crosstalk rainbow fart
+2020-7-1开始的
+2020-7-2睾丸了
+暂时这么着吧..
+音质和剪辑都不太好克服..
+大佬们将就着用吧,谁有空可以帮着升级升级2333
+
+最后..先搁置着,没啥写的...

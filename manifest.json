@@ -1,188 +1,466 @@
 {
     "name": "Crosstalk-RainbowFart",
-    "display-name": "Crosstalk-彩虹屁",
+    "display-name": "Crosstalk(相声)-彩虹屁",
     "version": "1.0",
-    "description": "VSCode 相声彩虹屁语音包",
-    "avatar": "bh3_01.png",
-    "avatar-dark": "bh3_02.png",
-    "author": "zer0e",
-    "gender": "female",
+    "description": "#治 疗 脱 发 一 百 年#",
+    "avatar": "image/dark.jpg",
+    "avatar-dark": "image/dark.jpg",
+    "author": "Weidows: https://github.com/2984539695",
+    "gender": "male",
     "languages": [
-        "Python"
+        "c",
+        "cpp",
+        "C++",
+        "javascript",
+        "typescript",
+        "rust",
+        "java",
+        "python",
+        "python3",
+        "golang"
     ],
     "contributes": [
         {
             "keywords": [
-                "import"
+                "main",
+                "class",
+                "template",
+                "main ",
+                "class ",
+                "template ",
+                " main ",
+                " class ",
+                " template "
             ],
             "voices": [
-                "import_01.mp3",
-                "import_02.mp3",
-                "import_03.mp3",
-                "import_04.mp3",
-                "import_05.mp3",
-                "import_06.mp3"
+                "Crosstalk/jinerPannimen.wav",
+                "Crosstalk/shaoshuohua.wav"
             ]
         },
         {
             "keywords": [
-                "break",
-                "continue"
+                "int",
+                "int ",
+                " int "
             ],
             "voices": [
-                "break_01.mp3",
-                "break_02.mp3",
-                "break_03.mp3",
-                "break_04.mp3"
+                "Crosstalk/panta.wav"
+            ]
+        },
+        {
+            "keywords": [
+                "void",
+                "void ",
+                " void "
+            ],
+            "voices": [
+                "Crosstalk/unfortunately.wav"
             ]
         },
         {
             "keywords": [
                 "if",
-                "else"
+                "if (",
+                "?",
+                "else {"
             ],
             "voices": [
-                "if_01.mp3",
-                "if_02.mp3",
-                "if_03.mp3",
-                "if_04.mp3",
-                "if_05.mp3"
+                "Crosstalk/what's the hell.wav",
+                "Crosstalk/father and son.wav"
             ]
         },
         {
             "keywords": [
                 "for",
-                "while"
+                "while",
+                "for ",
+                "while ",
+                "() =>",
+                "() => ",
+                "for (",
+                "while (",
+                "switch (",
+                ".map(",
+                "for ( ",
+                "while ( ",
+                "switch ( "
             ],
             "voices": [
-                "for_01.mp3",
-                "for_02.mp3",
-                "for_03.mp3",
-                "for_04.mp3"
+                "Crosstalk/jinerPannimen.wav",
+                "Crosstalk/mamalailai.wav"
             ]
         },
         {
             "keywords": [
-                "await",
-                "async"
+                "char",
+                "char ",
+                " char ",
+                "//",
+                "// ",
+                " // ",
+                "let",
+                "const",
+                "var",
+                "val",
+                "let ",
+                "const ",
+                "var ",
+                "val ",
+                " let ",
+                " const ",
+                " var ",
+                " val "
             ],
             "voices": [
-                "await_01.mp3",
-                "await_02.mp3",
-                "await_03.mp3",
-                "await_04.mp3"
+                "Crosstalk/not all.wav"
             ]
         },
         {
             "keywords": [
-                "catch",
                 "try",
-                "except",
-                "finally"
+                "catch",
+                "try ",
+                "catch ",
+                " try ",
+                " catch ",
+                "try{",
+                "try {",
+                "try:",
+                "try{ ",
+                "try { ",
+                "try: ",
+                " try{ ",
+                " try { ",
+                " try: ",
+                "finally",
+                "finally ",
+                " finally "
             ],
             "voices": [
-                "try_01.mp3",
-                "try_02.mp3",
-                "try_03.mp3",
-                "try_04.mp3"
+                "Crosstalk/oh baby.wav",
+                "Crosstalk/Grandson.wav"
             ]
         },
         {
             "keywords": [
+                "switch",
+                "case",
+                "switch ",
+                "case ",
+                " switch ",
+                " case ",
+                "sleect",
+                "fliter",
+                "fitler",
+                "deatil",
+                "Deatil",
+                "deafult",
+                "Deafult",
+                "funtion",
+                "ture",
+                "frist",
+                "filed",
+                "Filed",
+                "lable",
+                "Lable",
+                "Shema",
+                "Schame",
+                "Resiable",
+                "Dasbhoard",
+                "submited",
+                "Submited",
+                "submiting",
+                "cancle",
+                "avaliable",
+                "delimeter",
+                "attibute",
+                "confrim",
+                "formated",
+                "Pannel",
+                "Soruce",
+                "Categorys",
+                "Propety",
+                "Feaure",
+                "sleect ",
+                "fliter ",
+                "fitler ",
+                "deatil ",
+                "Deatil ",
+                "deafult ",
+                "Deafult ",
+                "funtion ",
+                "ture ",
+                "frist ",
+                "filed ",
+                "Filed ",
+                "lable ",
+                "Lable ",
+                "Shema ",
+                "Schame ",
+                "Resiable ",
+                "Dasbhoard ",
+                "submited ",
+                "Submited ",
+                "submiting ",
+                "cancle ",
+                "avaliable ",
+                "delimeter ",
+                "attibute ",
+                "confrim ",
+                "formated ",
+                "Pannel ",
+                "Soruce ",
+                "Categorys ",
+                "Propety ",
+                "Feaure ",
+                " sleect ",
+                " fliter ",
+                " fitler ",
+                " deatil ",
+                " Deatil ",
+                " deafult ",
+                " Deafult ",
+                " funtion ",
+                " ture ",
+                " frist ",
+                " filed ",
+                " Filed ",
+                " lable ",
+                " Lable ",
+                " Shema ",
+                " Schame ",
+                " Resiable ",
+                " Dasbhoard ",
+                " submited ",
+                " Submited ",
+                " submiting ",
+                " cancle ",
+                " avaliable ",
+                " delimeter ",
+                " attibute ",
+                " confrim ",
+                " formated ",
+                " Pannel ",
+                " Soruce ",
+                " Categorys ",
+                " Propety ",
+                " Feaure "
+            ],
+            "voices": [
+                "Crosstalk/before bed.wav"
+            ]
+        },
+        {
+            "keywords": [
+                "break",
+                "continue",
+                "break ",
+                "continue ",
+                "return",
+                "return "
+            ],
+            "voices": [
+                "Crosstalk/in your mouth.wav"
+            ]
+        },
+        {
+            "keywords": [
+                "new",
+                "new ",
+                " new ",
+                "this.",
+                "self.",
+                "extends",
+                "this. ",
+                "self. ",
+                "extends ",
+                " this. ",
+                " self. ",
+                " extends "
+            ],
+            "voices": [
+                "Crosstalk/Loud Love.wav"
+            ]
+        },
+        {
+            "keywords": [
+                "delete",
+                "delete ",
+                " delete "
+            ],
+            "voices": [
+                "Crosstalk/ganganbabade.wav"
+            ]
+        },
+        {
+            "keywords": [
+                "public",
+                "public ",
+                " public ",
+                "private",
+                "protected",
+                "private ",
+                "protected ",
+                " private ",
+                " protected "
+            ],
+            "voices": [
+                "Crosstalk/You see MrYu.wav"
+            ]
+        },
+        {
+            "keywords": [
+                "fn",
+                "function",
+                "lambda",
                 "def",
-                "main"
+                "=>",
+                "impl",
+                "->",
+                "Theorem",
+                "Definition",
+                "Fixpoint",
+                "Inductive",
+                "Lemma",
+                "Proof",
+                "fn ",
+                "function ",
+                "lambda ",
+                "def ",
+                "=> ",
+                "impl ",
+                "-> ",
+                "Theorem ",
+                "Definition ",
+                "Fixpoint ",
+                "Inductive ",
+                "Lemma ",
+                "Proof ",
+                " fn ",
+                " function ",
+                " lambda ",
+                " def ",
+                " => ",
+                " impl ",
+                " -> ",
+                " Theorem ",
+                " Definition ",
+                " Fixpoint ",
+                " Inductive ",
+                " Lemma ",
+                " Proof "
             ],
             "voices": [
-                "def_01.mp3",
-                "def_02.mp3",
-                "def_03.mp3",
-                "def_04.mp3"
+                "Crosstalk/DengGeLiGeDong.wav"
             ]
         },
         {
             "keywords": [
-                "and",
-                "not"
+                "unwrap",
+                "throw",
+                "raise",
+                "Err",
+                "Exception",
+                "Abort",
+                "unwrap ",
+                "throw ",
+                "raise ",
+                "Err ",
+                "Exception ",
+                "Abort ",
+                " unwrap ",
+                " throw ",
+                " raise ",
+                " Err ",
+                " Exception ",
+                " Abort "
             ],
             "voices": [
-                "and_01.mp3",
-                "and_02.mp3",
-                "and_03.mp3",
-                "and_04.mp3"
+                "Crosstalk/Eiiiiii.wav"
             ]
         },
         {
             "keywords": [
-                "class"
+                "Ok",
+                "Ok ",
+                " Ok ",
+                "loop",
+                "loop ",
+                " loop ",
+                "{",
+                "}",
+                "Admitted",
+                "intro",
+                "destruct",
+                "induction",
+                "{ ",
+                "} ",
+                "Admitted ",
+                "intro ",
+                "destruct ",
+                "induction ",
+                " { ",
+                " } ",
+                " Admitted ",
+                " intro ",
+                " destruct ",
+                " induction "
             ],
             "voices": [
-                "class_01.mp3",
-                "class_02.mp3",
-                "class_03.mp3",
-                "class_04.mp3"
+                "Crosstalk/You Free.wav"
             ]
         },
         {
             "keywords": [
-                "$time_morning"
+                "import",
+                "await",
+                "use",
+                "import ",
+                "await ",
+                "use ",
+                " import ",
+                " await ",
+                " use ",
+                "yield",
+                "exit",
+                "Qed",
+                "yield ",
+                "exit ",
+                "Qed ",
+                " yield ",
+                " exit ",
+                " Qed ",
+                "include",
+                "include ",
+                " include "
             ],
             "voices": [
-                "time_morning_01.mp3",
-                "time_morning_02.mp3",
-                "time_morning_03.mp3",
-                "time_morning_04.mp3"
+                "Crosstalk/Dududu.wav"
             ]
         },
         {
             "keywords": [
-                "$time_before_noon"
+                "match",
+                "else",
+                "elif",
+                "simpl",
+                "rewrite",
+                "apply",
+                "match ",
+                "else ",
+                "elif ",
+                "simpl ",
+                "rewrite ",
+                "apply ",
+                " match ",
+                " else ",
+                " elif ",
+                " simpl ",
+                " rewrite ",
+                " apply "
             ],
             "voices": [
-                "time_before_noon_01.mp3",
-                "time_before_noon_02.mp3"
-            ]
-        },
-        {
-            "keywords": [
-                "$time_noon"
-            ],
-            "voices": [
-                "time_noon_01.mp3",
-                "time_noon_02.mp3",
-                "time_noon_03.mp3"
-            ]
-        },
-        {
-            "keywords": [
-                "$time_evening"
-            ],
-            "voices": [
-                "time_evening_01.mp3",
-                "time_evening_02.mp3",
-                "time_evening_03.mp3"
-            ]
-        },
-        {
-            "keywords": [
-                "$time_midnight"
-            ],
-            "voices": [
-                "time_midnight_01.mp3",
-                "time_midnight_02.mp3",
-                "time_midnight_03.mp3"
-            ]
-        },
-        {
-            "keywords": [
-                "$time_each_hour"
-            ],
-            "voices": [
-                "time_each_hour_01.mp3",
-                "time_each_hour_02.mp3",
-                "time_each_hour_03.mp3",
-                "time_each_hour_04.mp3",
-                "time_each_hour_05.mp3",
-                "time_each_hour_06.mp3"
+                "Crosstalk/Superman.wav"
             ]
         }
     ]
