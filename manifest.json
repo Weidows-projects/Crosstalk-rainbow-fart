@@ -134,7 +134,8 @@
                 " try: ",
                 "finally",
                 "finally ",
-                " finally "
+                " finally ",
+                "final "
             ],
             "voices": [
                 "Crosstalk/oh baby.wav",
@@ -413,6 +414,7 @@
         {
             "keywords": [
                 "import",
+                "package",
                 "await",
                 "use",
                 "import ",
