@@ -2,20 +2,20 @@
  * @Author: Weidows
  * @Date: 2020-07-02 10:44:33
  * @LastEditors: Weidows
- * @LastEditTime: 2020-08-11 10:40:16
+ * @LastEditTime: 2020-08-22 15:30:04
  * @FilePath: \Weidowsd:\Game\Demo\Github\Crosstalk-rainbow-fart\README.md
 --> 
 <h1 align="center">
  ⭐️ 相声🌈Rainbow-Fart语音包 ⭐️ 
 
-![GuoDeGang](image/dark.jpg)
+![GuoDeGang](https://raw.githubusercontent.com/Weidows/Crosstalk-rainbow-fart/master/image/dark.jpg)
 </h1>
 <center>
 
 # [一.演示视频(点我)](https://www.bilibili.com/video/BV1bi4y1G7kb)
+  [音频文件](./Crosstalk/)在这里面,裁减了一些相声中的名场面和经典语句等等...希望能给您的持盘之手些许慰藉:)
     视频发布在B站上了,可以看看是否喜欢和安装  
     目前此语音包支持C/C++,Java,Python,Go,JavaScript等等语言
-
 
 # 二.安装提要
 </center>
@@ -35,6 +35,7 @@
 
 <center>
 
-# #N.[反馈 & 出处 (Aboue me & Click me)](https://github.com/Weidows/Weidows/blob/master/Others/MarkDown/AboutMe.md)
+# #N.[反馈 & 出处 (Aboue me & Click me)](https://Weidows.github.io/Weidows/about
+
     后续可能会更新,同时欢迎有兴趣的提出修改意见或共同整改!
 </center>
