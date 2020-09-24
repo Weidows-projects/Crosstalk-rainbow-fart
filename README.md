@@ -2,7 +2,7 @@
  * @Author: Weidows
  * @Date: 2020-07-02 10:44:33
  * @LastEditors: Weidows
- * @LastEditTime: 2020-09-19 14:53:42
+ * @LastEditTime: 2020-09-24 21:36:11
  * @FilePath: \Weidowsg:\Repo\Crosstalk-rainbow-fart\README.md
 --> 
 <h1 align="center">
@@ -14,8 +14,6 @@
 <center>
 
 # [一.演示视频](https://www.bilibili.com/video/BV1bi4y1G7kb)
-
-  <iframe src="//player.bilibili.com/player.html?aid=541127453&bvid=BV1bi4y1G7kb&cid=208071709&page=1" scrolling="no" border="1" frameborder="yes" framespacing="0" allowfullscreen="true" width="100%" height="600"> </iframe>  
   
   [音频文件](https://gitee.com/Weidows/Crosstalk-rainbow-fart/tree/master/Crosstalk)在这里面,裁减了一些相声中的名场面和经典语句等等...希望能给您的持盘之手些许慰藉:)
     视频发布在B站上了,可以看看是否喜欢和安装  
