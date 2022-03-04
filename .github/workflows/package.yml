@@ -1,0 +1,23 @@
+name: auto-package
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  auto-package:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - uses: montudor/action-zip@v1
+        with:
+          args: zip -q -r Crosstalk-rainbow-fart.zip Crosstalk image manifest.json
+
+      - name: Upload to release
+        uses: JasonEtco/upload-to-release@master
+        with:
+          args: Crosstalk-rainbow-fart.zip application/zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
