@@ -20,7 +20,7 @@
 
 - 目前此语音包支持 `C/C++,Java,Python,Go,JavaScript` 等等语言.
 
-![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/divider.png)</a>
 
 # 安装提要
 
@@ -29,7 +29,7 @@
 3. 打开彩虹屁页面
 4. 导入下载的.zip 包,漱漱口准备开始笑
 
-![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/divider.png)</a>
 
 # 下载
 
